@@ -94,13 +94,24 @@ StudentStay SL is a front-end project. The search bar, filters and contact form 
 
 ### Responsive Views (Home Page)
 
-**Tablet**
+**Ipad-Mini**
 
-![Home page on tablet](screenshots/home-tablet.png)
+![Home page on ipad-mini](screenshots/home.ipad-mini.png)
 
 **Mobile**
 
 ![Home page on mobile](screenshots/home-mobile.png)
+
+Technologies Used
+
+* HTML5 - Used to structure the website pages and organize content.
+* CSS3 - Used for styling, layouts, colours, typography, and responsive design.
+* Figma - Used to create the initial design, wireframes, and prototype for Assignment 1.
+* Visual Studio Code - Used to write and edit the website code.
+* Git and GitHub - Used for version control and managing the project repository.
+* Google Chrome - Used to view and test the website.
+
+
 
 ## Design
 
