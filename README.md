@@ -100,7 +100,7 @@ StudentStay SL is a front-end project. The search bar, filters and contact form 
 
 **Mobile**
 
-![Home page on mobile](screenshots/home-mobile.png)
+![Home page on mobile](screenshots/home.mobile.png)
 
 Technologies Used
 
